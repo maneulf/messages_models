@@ -1,4 +1,4 @@
-module github.com/base_ms
+module github.com/maneulf/base_ms
 
 go 1.20
 

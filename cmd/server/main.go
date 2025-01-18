@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	apserver "github.com/base_ms/pkg/server"
 	"github.com/gin-gonic/gin"
+	apserver "github.com/maneulf/base_ms/pkg/server"
 )
 
 func main() {

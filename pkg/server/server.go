@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/base_ms/configs"
 	"github.com/gin-gonic/gin"
+	"github.com/maneulf/base_ms/configs"
 )
 
 type Server struct {
